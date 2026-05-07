@@ -1,0 +1,1 @@
+function showMessage(){alert('welcome!Thanks for visiting');}
